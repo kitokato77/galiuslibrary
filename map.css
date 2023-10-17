@@ -1,0 +1,30 @@
+#background {
+    min-height: 1100px;
+    width: 100%;
+}
+
+#location-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(4, 15, 54, 0.4);
+}
+
+.location-text {
+    background-color: #2cd64e;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.location-image {
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.location-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
